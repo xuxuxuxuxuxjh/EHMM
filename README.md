@@ -4,7 +4,7 @@ This is the source code of the final project for NLP course.
 
 ## Data
 
-You can get the data ```Few-NERD``` (**https://github.com/thunlp/Few-NERD?tab=readme-ov-file#few-nerd-dataset**).
+You can get the data ```Few-NERD``` from (**https://github.com/thunlp/Few-NERD?tab=readme-ov-file#few-nerd-dataset**).
 
 ## Code
 
